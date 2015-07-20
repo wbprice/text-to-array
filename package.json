@@ -1,0 +1,24 @@
+{
+  "name": "text-to-array",
+  "version": "0.0.1",
+  "description": "A tool that converts a list of items in a text file into a JSON array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbprice/text-to-array.git"
+  },
+  "keywords": [
+    "JSON",
+    "mock",
+    "data"
+  ],
+  "author": "W. Blaine Price",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wbprice/text-to-array/issues"
+  },
+  "homepage": "https://github.com/wbprice/text-to-array#readme"
+}
